@@ -19,7 +19,6 @@ JWT: JSON Web Tokens for secure authentication and authorization.
 
 ## Installation
 
-.cd task_backend
 
 ```bash
 $ npm install
